@@ -4,10 +4,26 @@ Data(Fotolar) WeTransfer üzerinden gönderildi.
 covid.ipynb = CNN ile ilgili çalışmadır. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | | | | Model Accuracy With Epoch=8 | | | |
 |------|------|------|------|------|------|------|
-
-
 
 |Resnet34|Resnet50|Vgg19|Alextnet|Densenet201|Mobilenet_v2|Squeezenet1_1|
 |------|------|------|------|------|------|------|
